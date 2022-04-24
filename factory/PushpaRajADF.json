@@ -1,0 +1,9 @@
+{
+	"name": "PushpaRajADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c1906298-edda-4790-91aa-2fa26569735e",
+		"tenantId": "0e75b8b9-a321-40dc-9912-9538da3cdade"
+	}
+}
